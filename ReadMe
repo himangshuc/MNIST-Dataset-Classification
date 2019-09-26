@@ -1,0 +1,4 @@
+Classification of MNIST Images:
+
+- To run the program, open 'Challenge4.m' on MATLAB and run the script. To change the value of k simply replace the first argument in 		line 12 for KNN
+- The accuracy results get saved in 'accuracy.mat' whereas the time elapsed results is stored in 'time.mat'
